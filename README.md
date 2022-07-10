@@ -7,3 +7,7 @@ Um plugin simples de AutoInventory.
 [] AutoInventory ao explodir
 <br>
 [] Autoinventory quando um item for dropado para você ?
+<br>
+<br>
+<br>
+<a href="https://poggit.pmmp.io/p/AutoInventoryPro"><img src="https://poggit.pmmp.io/shield.state/AutoInventoryPro"></a>
